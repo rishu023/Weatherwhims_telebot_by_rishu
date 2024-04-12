@@ -33,6 +33,9 @@ This project is a Telegram bot that provides weather forecasts for cities and of
 - Chat transcripts with ChatGPT are used to enhance the conversational aspect of the bot.
 -Here's the [link](https://chat.openai.com/share/6819c6a9-8ba5-4e2b-b3ae-9535c44445a2) to the chat transcripts with ChatGPT.
 
+## Username of mybot:
+ - https://t.me/WeatherWhimsy_bot
+ 
 
 ## Credits
 - This project was developed by [Rishu Kuamr].
