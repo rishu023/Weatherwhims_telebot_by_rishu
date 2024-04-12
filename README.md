@@ -22,10 +22,7 @@ This project is a Telegram bot that provides weather forecasts for cities and of
    - Open a terminal.
    - Navigate to the project directory.
    - Run the Python script `telebot.py`:
-     ```
-     python bot.py
-     ```
-
+     
 ## Usage
 - Start the bot by sending the `/start` command to it on Telegram.
 - Use the `/weather` command followed by the name of a city to get its weather forecast.
