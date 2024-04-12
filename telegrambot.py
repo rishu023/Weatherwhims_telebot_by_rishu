@@ -5,9 +5,9 @@ from config import TOKEN, OPENWEATHERMAP_API_KEY, OPENROUTER_AI_API_KEY
 
 # Create a new Telebot instance
 bot = telebot.TeleBot(TOKEN)
-# Fetch music playlist links based on weather conditions
 
 
+# Fetch music playlist links based on weather conditions and some facts also
 def get_playlist_link_with_story(weather_description):
     story = ""  # Initialize an empty string for the story
     
@@ -39,7 +39,7 @@ def get_playlist_link(weather_description):
 
 
 
-
+# Response gebration function from LLM ai
 def generate_router_ai_response(query):
     url = "https://openrouter.ai/api/v1/chat/completions"
     headers = {
